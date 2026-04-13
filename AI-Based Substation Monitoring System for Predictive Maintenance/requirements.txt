@@ -1,0 +1,8 @@
+fastapi 
+uvicorn 
+kafka-python
+cassandra-driver 
+scikit-learn 
+joblib 
+numpy
+requests
